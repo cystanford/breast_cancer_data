@@ -1,4 +1,4 @@
-name: sklearn-env
+name: breast_cancer
 dependencies:
   - python=3.10
   - numpy
