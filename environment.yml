@@ -1,0 +1,9 @@
+name: sklearn-env
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - scikit-learn
+  - seaborn 
+  - matplotlib
+  - jupyter
