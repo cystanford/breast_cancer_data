@@ -1,4 +1,4 @@
-name: breast_cancer
+name: sklearn-env
 dependencies:
   - python=3.10
   - numpy
@@ -6,3 +6,4 @@ dependencies:
   - scikit-learn
   - seaborn 
   - matplotlib
+  - jupyter
